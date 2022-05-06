@@ -1,1 +1,0 @@
-This project implements the Breadth First Search on a Grpah Data Structure. Test using a smaller data set of movies to see how many degrees a certain acot is to Kevin Bacon. 
